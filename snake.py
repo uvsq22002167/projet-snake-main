@@ -1,6 +1,6 @@
 ##################################
 # groupe 3 MIASHS TD2
-# Sana MAREF
+# Sana MAAREF
 # Judith FAUCON
 # Jalis LACHEHAB
 # Rosary NITHIYANANTHAM
